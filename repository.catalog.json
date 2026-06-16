@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "name": "NodeQL Example Plugin Repository",
+  "plugins": [
+    {
+      "id": "com.example.text-tools",
+      "name": "Example Text Tools Plugin",
+      "version": "1.0.0",
+      "description": "Example plugin providing text manipulation tools for NodeQL.",
+      "manifestUrl": "plugins/com.example.text-tools.plugin.json",
+      "sha256": "a09fffc02a5dd937a4dd56e3fc78f025be695be8d6444fe0fce5b6c9b550dff2"
+    },
+    {
+      "id": "dev.nodeql.analytics",
+      "name": "Example Analytics Tools Plugin",
+      "version": "1.0.0",
+      "description": "Example plugin providing Analytical tools for NodeQL.",
+      "manifestUrl": "plugins/dev.nodeql.analytics.plugin.json",
+      "sha256": "aca9494c504c5125d817d1e34c20b39afca6a2cbcacb3a33624ada7c39beee5b"
+    },
+    {
+      "id": "dev.nodeql.data-quality",
+      "name": "Example Data Quality Tools Plugin",
+      "version": "1.0.0",
+      "description": "Example plugin providing data quality tools for NodeQL.",
+      "manifestUrl": "plugins/dev.nodeql.data-quality.plugin.json",
+      "sha256": "6df974ce8d0bf7668fee94ca2c7d73ae1cef5db881b91068590057f7b8b69a93"
+    },
+    {
+      "id": "dev.nodeql.json-toolkit",
+      "name": "Example JSON Tools Plugin",
+      "version": "1.0.0",
+      "description": "Example plugin providing JSON manipulation tools for NodeQL.",
+      "manifestUrl": "plugins/dev.nodeql.json-toolkit.plugin.json",
+      "sha256": "08ef84a7da12896096e2288d8bcf7c997739d97a1dbc985dca2719c2560e2228"
+    },
+    {
+      "id": "dev.nodeql.privacy-tools",
+      "name": "Example Privacy Tools Plugin",
+      "version": "1.0.0",
+      "description": "Example plugin providing privacy manipulation tools for NodeQL.",
+      "manifestUrl": "plugins/dev.nodeql.privacy-tools.plugin.json",
+      "sha256": "84deb844b98570acfaa5b91b01656b225ef4ff43e34fb963d2bdfd72f36ed8d1"
+    },
+    {
+      "id": "dev.nodeql.sqlite-power",
+      "name": "Example SQLite Power Tools Plugin",
+      "version": "1.0.0",
+      "description": "Example plugin providing SQLite power manipulation tools for NodeQL.",
+      "manifestUrl": "plugins/dev.nodeql.sqlite-power.plugin.json",
+      "sha256": "ce28e7b64a3134b914459d8acff3d2c44dd1e38c2c4ef473f0e30e70c58f59cd"
+    }
+  ]
+}
